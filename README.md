@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://moorigin.github.io/linux-tutorial/" target="_blank" rel="noopener noreferrer">
-        <img src="https://sm.ms/image/vrnVZYAdhJCScMw" alt="logo" width="100px">
+        <img src="https://s2.loli.net/2024/02/27/vrnVZYAdhJCScMw.jpg" alt="logo" width="100px">
     </a>
 </p>
 
