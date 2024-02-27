@@ -6,7 +6,7 @@
 >
 > [nftables](https://wiki.archlinux.org/index.php/Nftables) 已经包含在 [Linux kernel 3.13](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5MDU) 中，以后会取代 iptables 成为主要的 Linux 防火墙工具。
 >
-> 环境：CentOS7
+> 环境：CentOS7/Debian
 
 ## 1. 简介
 
@@ -20,16 +20,18 @@
 
 CentOS 7 上默认安装了 firewalld 作为防火墙，使用 iptables 建议关闭并禁用 firewalld。
 
-```bash
+```
 systemctl stop firewalld
 systemctl disable firewalld
 ```
 
 （2）安装 iptables
-
+- CentOS
 ```
 yum install -y iptables-services
 ```
+- Debian
+Debian系列发行版系统默认都是使用的iptables顾不需要再次安装
 
 （3）服务管理
 
