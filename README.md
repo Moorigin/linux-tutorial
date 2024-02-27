@@ -8,8 +8,8 @@
 
 > 📚 **linux-tutorial** 是一个 Linux 教程。
 >
-> - 🔁 项目同步维护：[Github](https://github.com/dunwu/linux-tutorial/) | [Gitee](https://gitee.com/turnon/linux-tutorial/)
-> - 📖 电子书阅读：[Github Pages](https://moorigin.github.io/linux-tutorial/) | [Gitee Pages](http://turnon.gitee.io/linux-tutorial/)
+> - 🔁 项目同步维护：[Github](https://github.com/moorigin/linux-tutorial/)
+> - 📖 电子书阅读：[Github Pages](https://moorigin.github.io/linux-tutorial/)
 
 ## 📖 内容
 
