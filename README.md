@@ -4,17 +4,12 @@
     </a>
 </p>
 
-<p align="center">
-    <img src="https://badgen.net/github/license/dunwu/linux-tutorial" alt="license">
-    <img src="https://travis-ci.com/dunwu/linux-tutorial.svg?branch=master" alt="build">
-</p>
-
 <h1 align="center">linux-tutorial</h1>
 
 > 📚 **linux-tutorial** 是一个 Linux 教程。
 >
 > - 🔁 项目同步维护：[Github](https://github.com/dunwu/linux-tutorial/) | [Gitee](https://gitee.com/turnon/linux-tutorial/)
-> - 📖 电子书阅读：[Github Pages](https://dunwu.github.io/linux-tutorial/) | [Gitee Pages](http://turnon.gitee.io/linux-tutorial/)
+> - 📖 电子书阅读：[Github Pages](https://moorigin.github.io/linux-tutorial/) | [Gitee Pages](http://turnon.gitee.io/linux-tutorial/)
 
 ## 📖 内容
 
@@ -50,7 +45,7 @@
 
 > 部署在 Linux 系统上的软件运维。
 >
-> 配套安装脚本：⌨ [软件运维配置脚本集合](https://github.com/dunwu/linux-tutorial/tree/master/codes/linux/soft)
+> 配套安装脚本：⌨ [软件运维配置脚本集合](https://github.com/moorigin/linux-tutorial/tree/master/codes/linux/soft)
 
 - 开发环境
   - [JDK 安装](docs/linux/soft/jdk-install.md)
@@ -94,13 +89,13 @@
 
 **Shell 脚本大全** 精心收集、整理了 Linux 环境下的常见 Shell 脚本操作片段。
 
-源码：[**Shell 脚本大全**](https://github.com/dunwu/linux-tutorial/tree/master/codes/shell)
+源码：[**Shell 脚本大全**](https://github.com/moorigin/linux-tutorial/tree/master/codes/shell)
 
 ### CentOS 运维脚本集合
 
 本人作为一名 Java 后端，苦于经常在 CentOS 环境上开荒虚拟机。为提高效率，写了一套 Shell 脚本，提供如下功能：安装常用 lib 库、命令工具、设置 DNS、NTP、配置国内 yum 源、一键安装常用软件等。
 
-源码：[**CentOS 常规操作运维脚本集合**](https://github.com/dunwu/linux-tutorial/tree/master/codes/linux)
+源码：[**CentOS 常规操作运维脚本集合**](https://github.com/moorigin/linux-tutorial/tree/master/codes/linux)
 
 ## 📚 资料
 
