@@ -25,7 +25,3 @@
 - 大数据服务
   - [Kafka 运维](kafka-install.md)
   - [Zookeeper 运维](https://github.com/dunwu/javatech/blob/master/docs/technology/monitor/zookeeper-ops.md)
-
-## 🚪 传送门
-
-◾ 💧 [钝悟的 IT 知识图谱](https://dunwu.github.io/waterdrop/) ◾ 🎯 [钝悟的博客](https://dunwu.github.io/blog/) ◾
