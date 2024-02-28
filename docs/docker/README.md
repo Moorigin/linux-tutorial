@@ -30,7 +30,3 @@
 - **文章**
   - [Docker 入门教程](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
   - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/tree/master/zh-cn)
-
-## 🚪 传送门
-
-◾ 💧 [钝悟的 IT 知识图谱](https://dunwu.github.io/waterdrop/) ◾ 🎯 [钝悟的博客](https://dunwu.github.io/blog/) ◾
