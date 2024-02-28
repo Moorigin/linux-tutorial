@@ -1,7 +1,5 @@
 # 查看 Linux 命令帮助信息
 
-> Linux 中有非常多的命令，想全部背下来是很困难的事。所以，我认为学习 Linux 的第一步，就是了解如何快速检索命令说明。
->
 > 关键词：`help`, `whatis`, `info`, `which`, `whereis`, `man`
 
 
