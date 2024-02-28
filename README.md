@@ -150,4 +150,4 @@
 
 ## 🚪 传送门
 
-◾ 🎯 [Moorigin的博客](https://blog.zdcy.org/) ◾
+◾ 🎯 [原文档](https://dunwu.github.io/linux-tutorial/) ◾
