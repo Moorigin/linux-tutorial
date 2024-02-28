@@ -151,7 +151,3 @@ footer: CC-BY-SA-4.0 Licensed | Copyright © 2018-Now Dunwu
   - [东北大学](http://mirror.neu.edu.cn/)
   - [浙江大学](http://mirrors.zju.edu.cn/)
   - [东软信息学院](http://mirrors.neusoft.edu.cn/)
-
-## 🚪 传送门
-
-◾ 💧 [钝悟的 IT 知识图谱](https://dunwu.github.io/waterdrop/) ◾ 🎯 [钝悟的博客](https://dunwu.github.io/blog/) ◾
