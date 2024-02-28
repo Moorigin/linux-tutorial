@@ -19,7 +19,3 @@
 - [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 - [Linux命令大全](https://man.linuxde.net/)
 - [linux-command](https://github.com/jaywcjlove/linux-command)
-
-## 🚪 传送门
-
-◾ 💧 [钝悟的 IT 知识图谱](https://dunwu.github.io/waterdrop/) ◾ 🎯 [钝悟的博客](https://dunwu.github.io/blog/) ◾
